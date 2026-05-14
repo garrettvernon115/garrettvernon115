@@ -1,12 +1,17 @@
-## Hi, I'm Garrett Vernon
+# Hi, I'm Garrett Vernon
 
-Software Engineer focused on backend systems, full-stack applications, cloud infrastructure, and automation.
+**Backend & Full-Stack Developer** focused on building scalable applications, backend systems, and automation.
 
-- Incoming Georgia Tech OMSCS (AI/ML)
-- Open to SWE internship and new-grad opportunities
-- Based in Florida
+## Currently
+🎓 **Computer Science Graduate**
 
----
+🧠 **Incoming Georgia Tech OMSCS (AI/ML)**
+
+💼 **Seeking Software Engineering Internship & New Grad Opportunities**
+
+🌎 **Open to relocation, contract work, and new opportunities**
+
+📍 **Based in Florida**
 
 ### Featured Projects
 
