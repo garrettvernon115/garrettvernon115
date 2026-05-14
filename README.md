@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Garrett Vernon
 
-<!--
-**garrettvernon115/garrettvernon115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on backend systems, full-stack applications, cloud infrastructure, and automation.
 
-Here are some ideas to get you started:
+- Incoming Georgia Tech OMSCS (AI/ML)
+- Open to SWE internship and new-grad opportunities
+- Based in Florida
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Featured Projects
+
+- **[HomeLink](https://github.com/garrettvernon115)** — Full-stack marketplace platform
+- **[Luex](https://github.com/garrettvernon115)** — Cross-platform financial tracking app
+- **[Petals & Produce](https://github.com/garrettvernon115)** — Full-stack e-commerce platform
+
+---
+
+### Tech Stack
+
+**Languages:** Java, C#, TypeScript, Python, SQL
+**Frameworks:** Spring Boot, .NET MAUI, Angular
+**Cloud & Infra:** AWS, Firebase, MySQL, GitHub Actions
+
+---
+
+### Links
+
+- [Portfolio](https://your-portfolio-link.com)
+- [LinkedIn](https://linkedin.com/in/your-handle)
+- [Resume](https://link-to-your-resume.pdf)
