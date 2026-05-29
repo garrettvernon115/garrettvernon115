@@ -5,7 +5,7 @@
 ## Currently
 🎓 **Computer Science Graduate**
 
-🧠 **Incoming Georgia Tech OMSCS (AI/ML)**
+🧠 **Incoming Georgia Tech OMSCS (AI/ML) - 100% Online**
 
 💼 **Seeking Software Engineering Internship & New Grad Opportunities**
 
