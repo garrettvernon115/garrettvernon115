@@ -5,7 +5,7 @@
 ## Currently
 🎓 **Computer Science Graduate**
  
-🧠 **Incoming Georgia Tech OMSCS (AI/ML) - 100% Online**
+🧠 **Incoming Georgia Tech OMSCS (AI Specialization) - 100% Online**
  
 💼 **Seeking Software Engineering Internship & New Grad Opportunities**
  
@@ -16,7 +16,7 @@
 ### Featured Projects
  
 - **[HomeLink](https://github.com/garrettvernon115/HomeLink)** — Full-stack marketplace platform
-- **[Leux](https://github.com/garrettvernon115/Leux)** — Cross-platform financial tracking app
+- **[Luex](https://github.com/garrettvernon115/Leux)** — Cross-platform financial tracking app
 - **[Cheevo](https://github.com/garrettvernon115/Cheevo)** — Personal Xbox achievement tracker (FastAPI + Next.js)
 - **[Ohio Unitization & Drilling Units](https://github.com/garrettvernon115/Ohio-Unitization-Drilling-Units)** — Live map & data table for Ohio oil & gas unitizations and drilling units, powered by the ODNR ArcGIS service
 ---
